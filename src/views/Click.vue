@@ -1,6 +1,5 @@
 <template>
   <div class="click" v-on:click="onButtonCliked">
-    {{checktime}}
   </div>
 </template>
 
